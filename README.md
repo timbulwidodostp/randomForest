@@ -1,6 +1,8 @@
 # randomForest
 Classification and regression with random forest Use randomForest With (In) R Software
 
+https://www.youtube.com/watch?v=W0ND6LhywvQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
